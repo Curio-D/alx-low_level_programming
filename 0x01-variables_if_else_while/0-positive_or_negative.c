@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/**
+/*
  * main - positive or negative function.
  *
  * Return: (success)
@@ -22,7 +22,7 @@ else if (n == 0)
 }
 else
 {
-	printf("%d is negative\n", n); 
+	printf("%d is negative\n", n);
 }
 return (0);
 }
